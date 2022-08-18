@@ -1,5 +1,11 @@
 # slate-react
 
+## 0.82.1
+
+### Patch Changes
+
+- [#5084](https://github.com/ianstormtaylor/slate/pull/5084) [`50de780b`](https://github.com/ianstormtaylor/slate/commit/50de780b1c32fa2c52ad88d42031748f9d3944e9) Thanks [@BitPhinix](https://github.com/BitPhinix)! - Fix selection handling with slow flush in mark placeholders on android, fix auto-capitalize after placeholder
+
 ## 0.82.0
 
 ### Minor Changes
